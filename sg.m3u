@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url=https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml refresh="1440" max-conn="1" refresh="24"
 # singapore.m3u
   
 #EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-5.png",Channel 5 
@@ -18,6 +18,12 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 #EXTINF:-1 tvg-id="CNA" group-title="News" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=605/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default.mpd
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
+# https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 #EXTINF:-1 tvg-id="Suria" group-title="Singapore" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/suria.png",Suria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
