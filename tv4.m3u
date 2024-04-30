@@ -90,9 +90,14 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png",Astro AEC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
+https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5103
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroOasis" group-title="Malaysia" tvg-logo=""https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png",Astro Oasis
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroTutorTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png" group-title="Malaysia" ch-number="603",Astro Tutor TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -140,6 +145,13 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 # https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
+#EXTINF:-1 tvg-id="136.astro" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png" group-title="Malaysia",Oh My Ceria!
+https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
@@ -285,7 +297,7 @@ http://freeview.mywire.org:9090/streams/people.m3u8
 #EXTINF:-1 tvg-id="AstroArena" group-title="Sports" tvg-logo="https://freeview.github.io/logos/arena.png",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="Sports" tvg-logo="https://freeview.github.io/logos/xtra.png",beIN SPORTS XTRA
 http://freeview.mywire.org:9090/streams/xtra.m3u8
