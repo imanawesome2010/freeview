@@ -172,13 +172,13 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11e
 # http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 tvg-id="BernamaTV" group-title="News" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/bernama.png",BNC 
-https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Bernama/playlist.m3u8
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
 # #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani" group-title="News" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/awani.png",Astro Awani 
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/astroawani.m3u8
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 # https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
 # #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
